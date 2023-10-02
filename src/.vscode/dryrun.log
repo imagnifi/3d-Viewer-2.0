@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/igor/C++/CPP4_3DViewer_v2.0-0/src'
+make: Leaving directory '/home/igor/C++/CPP4_3DViewer_v2.0-0/src'
+ 
+Makefile:13: *** missing separator.  Stop.
+
